@@ -1,3 +1,8 @@
+## 📥 Download & Play
+**[👉 Click here to download the standalone Windows .exe and Linux versions!](https://github.com/Doobiesn4x/chromatic-planes/releases/latest)**
+
+*(No installation required. Just extract the .zip and double click the game!)*
+
 Chromatic Planes: The Hadwiger-Nelson Explorer
 Chromatic Planes is a procedural puzzle game and citizen-science discovery engine built in Python. It turns one of mathematics' most famous unsolved geometry puzzles—the Hadwiger-Nelson problem—into an interactive, AI-judged coloring book.
 
